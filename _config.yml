@@ -83,11 +83,9 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
-  working:
-    title: 'Papers'
   published:
     title: 'Published Papers'
-  progress:
+  wp:
     title: 'Work in Progress'
   old:
     title: 'Old Papers and Sleeping Projects'
